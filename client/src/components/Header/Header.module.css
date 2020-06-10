@@ -1,0 +1,32 @@
+.section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5vh 15vw;
+}
+
+.container a {
+  text-decoration: none;
+  color: #555555;
+}
+
+.title a {
+  font-size: 35px;
+}
+
+.menu a {
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.menu button {
+  font-size: 20px;
+  border: none;
+  color: #555555;
+  background: none;
+  margin-left: 15px;
+}
+
+.menu a:last-child {
+  margin-left: 15px
+}

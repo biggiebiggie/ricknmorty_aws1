@@ -1,0 +1,78 @@
+.mainContainer {
+  padding: 0 15vw;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container a {
+  text-decoration: none;
+  color: #555555;
+}
+p {
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.menu a:last-child {
+  margin-left: 15px;
+}
+
+.characterContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.headline {
+  margin: 50px 0 25px 0;
+  color: #555555;
+}
+
+.buttonContainer {
+  text-align: center;
+}
+
+.deleteBtn {
+  padding: 5px 30px;
+  background-color: lightcoral;
+  color: #ffffff;
+  border: none;
+  margin-left: 5px;
+  font-size: 16px;
+}
+
+.updateBtn {
+  padding: 5px 30px;
+  margin-right: 5px;
+  background-color: lightblue;
+  color: #ffffff;
+  border: none;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.titleWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.titleWrapper a {
+  padding: 5px 30px;
+  background-color: lightblue;
+  color: #ffffff;
+  border: none;
+  margin-left: 5px;
+  font-size: 16px;
+  text-decoration: none;
+}

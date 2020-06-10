@@ -1,0 +1,27 @@
+
+
+.mainContainer {
+    padding: 15px 5px;
+    border: 1px solid #55555580;
+    border-radius: 10px;
+    width: 275px;
+    overflow: hidden;
+    margin: 5px
+}
+.wrapper {
+    display: flex;
+}
+
+
+.imageContainer {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin-right: 15px;
+}
+
+.characterInfo {
+    margin-bottom: 10px;
+    color: #555555;
+    font-size: 20px;
+}
